@@ -43,7 +43,7 @@ for (let index = 1; index <= 20; index++) {
         console.log("7 is Detected");
         continue
     }
-    console.log(`Value of i is ${index}`); 
+    //console.log(`Value of i is ${index}`); 
     
     
 }
